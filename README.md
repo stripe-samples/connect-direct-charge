@@ -1,7 +1,7 @@
 # Connect direct charges
 
 This Stripe sample shows you how to process a Connect [direct charge](https://stripe.com/docs/connect/direct-charges) using Stripe elements.
-Before using this sample, you should have onboarded at least one Connect account. For more about onboarding accounts and making Connect charges, read our [step-by-step Connect guide](https://stripe.com/docs/connect/collect-then-transfer-guide#accept-payment).
+Before using this sample, you should have onboarded at least one Connect account. For more about onboarding accounts and making Connect charges, read our [step-by-step Connect guide](https://stripe.com/docs/connect/enable-payment-acceptance-guide#accept-payment).
 
 Demo url: https://pjydq.sse.codesandbox.io/
 
