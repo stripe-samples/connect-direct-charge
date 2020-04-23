@@ -200,7 +200,7 @@ fetch("/recent-accounts", {
       if (hasStandard) {
         wrapper.querySelector('.standard').classList.remove("hidden");
       }
-      else if (!!expressAccounts) {
+      else if (expressAccounts.length) {
         document.querySelector('#disabled-accounts-form').classList.remove("hidden");
         wrapper.querySelector('.express').classList.remove("hidden");
       }
