@@ -1,6 +1,6 @@
 {
   "name": "connect-direct-charge",
-  "configureDotEnv": false,
+  "configureDotEnv": true,
   "integrations": [
     {
       "name": "main",
