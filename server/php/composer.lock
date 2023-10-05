@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bfa2002614d13d24890d3c1363bf4f5d",
+    "content-hash": "bd49f2cdf8c45a6ccc260c5cfb975eb7",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -480,16 +480,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v10.20.0",
+            "version": "v12.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "6be8827ee0d6466bf48e2b6997a8feac596405f9"
+                "reference": "a4249b4a90437844f6c35e8701f8c68acd206f56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/6be8827ee0d6466bf48e2b6997a8feac596405f9",
-                "reference": "6be8827ee0d6466bf48e2b6997a8feac596405f9",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/a4249b4a90437844f6c35e8701f8c68acd206f56",
+                "reference": "a4249b4a90437844f6c35e8701f8c68acd206f56",
                 "shasum": ""
             },
             "require": {
@@ -502,8 +502,7 @@
                 "friendsofphp/php-cs-fixer": "3.5.0",
                 "php-coveralls/php-coveralls": "^2.5",
                 "phpstan/phpstan": "^1.2",
-                "phpunit/phpunit": "^5.7 || ^9.0",
-                "squizlabs/php_codesniffer": "^3.3"
+                "phpunit/phpunit": "^5.7 || ^9.0"
             },
             "type": "library",
             "extra": {
@@ -535,9 +534,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v10.20.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v12.5.0"
             },
-            "time": "2023-08-03T20:01:03+00:00"
+            "time": "2023-09-28T23:06:27+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
