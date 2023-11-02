@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bfa2002614d13d24890d3c1363bf4f5d",
+    "content-hash": "e963e1b050107679ad166a2e9a01277d",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -480,16 +480,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v10.20.0",
+            "version": "v13.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "6be8827ee0d6466bf48e2b6997a8feac596405f9"
+                "reference": "8971caa149b4689e67c1123d3604e387c79ab543"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/6be8827ee0d6466bf48e2b6997a8feac596405f9",
-                "reference": "6be8827ee0d6466bf48e2b6997a8feac596405f9",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/8971caa149b4689e67c1123d3604e387c79ab543",
+                "reference": "8971caa149b4689e67c1123d3604e387c79ab543",
                 "shasum": ""
             },
             "require": {
@@ -500,10 +500,8 @@
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "3.5.0",
-                "php-coveralls/php-coveralls": "^2.5",
                 "phpstan/phpstan": "^1.2",
-                "phpunit/phpunit": "^5.7 || ^9.0",
-                "squizlabs/php_codesniffer": "^3.3"
+                "phpunit/phpunit": "^5.7 || ^9.0"
             },
             "type": "library",
             "extra": {
@@ -535,9 +533,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v10.20.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v13.1.0"
             },
-            "time": "2023-08-03T20:01:03+00:00"
+            "time": "2023-10-26T17:36:08+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -658,5 +656,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
